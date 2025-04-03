@@ -1,1 +1,3 @@
- 
+Blog management
+
+(Nodejs + Angular) 
